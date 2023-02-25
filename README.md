@@ -1,12 +1,12 @@
-#Book Store Managment
+**Book Store Managment**
 
-###Spring Boot / Thymeleaf/ Jpa / Mysql
+Spring Boot / Thymeleaf/ Jpa / Mysql
 
 >I create simple spring boot app using MySql, Thymeleaf,JPA.
 
 ###Home Page
 
-![screenshot](../../../Desktop/Java/Spring boot/Screenshot 2023-02-25 180634.png)
+![](src/main/resources/static/image/home.png)
 
 ### New Book Register 
 We are registering a new book
