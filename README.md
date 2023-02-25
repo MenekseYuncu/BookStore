@@ -4,7 +4,7 @@ Spring Boot / Thymeleaf/ Jpa / Mysql
 
 >I create simple spring boot app using MySql, Thymeleaf,JPA.
 
-###Home Page
+### Home Page
 
 ![](src/main/resources/static/image/home.png)
 
